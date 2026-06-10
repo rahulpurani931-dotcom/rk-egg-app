@@ -1,0 +1,6 @@
+{
+  "name": "R.K. Eggwala",
+  "description": "Premium Street-Style Egg Delicacies. Experience the authentic tawa magic of legendary Surat egg dishes, elevated with gourmet dairy and high-hygiene culinary craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
